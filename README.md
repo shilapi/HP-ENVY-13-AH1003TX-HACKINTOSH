@@ -1,7 +1,7 @@
 # HP-ENVY-13-ah1003TX-Hackintosh
 
-惠普 ENVY 13 黑苹果
-此文件与efi基于 https://github.com/SilentSliver/HP-ENVY-13-ad1XX-Hackintosh 修改而来
+-惠普 ENVY 13 黑苹果
+-此文件与efi基于 https://github.com/SilentSliver/HP-ENVY-13-ad1XX-Hackintosh 修改而来
 
 ## 配置
 
